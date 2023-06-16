@@ -1,5 +1,5 @@
 # Magma
-Magma is an icon set for GNome, XFCE and Budgie DE.
+Magma is an icon set for Gnome, XFCE and Budgie DE.
 
 Coming Soon...
 
