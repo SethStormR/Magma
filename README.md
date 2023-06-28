@@ -3,7 +3,7 @@ Magma is an icon set for Deepin, Gnome, XFCE and Budgie DE.
 
 Video
 --
-https://www.youtube.com/watch?v=D2OQwOGTbNo
+https://www.youtube.com/watch?v=4UvdU1ntOJk
 
 Screenshots
 --
